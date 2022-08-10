@@ -1,0 +1,9 @@
+{
+  "name": "app",
+  "displayName": "app",
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.groovi.ios"
+    }
+  }
+}
